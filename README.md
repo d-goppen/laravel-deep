@@ -1,2 +1,3 @@
-# laravel-deep
-GeekBrains: Laravel. Глубокое погружение
+# Курс GeekBrains: Laravel. Глубокое погружение.
+
+Репозиторий для сдачи домашних заданий по курсу "Laravel. Глубокое погружение." от GeekBrains.
